@@ -43,3 +43,7 @@ Testleri çalıştırmak için aşağıdaki komutu çalıştırın
 ```bash
   npm run lint
 ```
+
+## Render maliyeti
+
+Render performansı için chrome fps rendering'te kontrol edilmiştir.
